@@ -1,0 +1,14 @@
+.style {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:ivory;
+}
+
+  canvas {
+  	border:2px dashed purple;
+    background-color: white;
+  }
